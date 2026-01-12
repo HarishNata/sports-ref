@@ -1,0 +1,23 @@
+{
+  "Lakers": {
+    "Warriors": {"W": 2, "L": 1},
+    "Celtics": {"W": 1, "L": 2},
+    "Heat": {"W": 3, "L": 0}
+  },
+  "Warriors": {
+    "Lakers": {"W": 1, "L": 2},
+    "Celtics": {"W": 2, "L": 1},
+    "Heat": {"W": 1, "L": 2}
+  },
+  "Celtics": {
+    "Lakers": {"W": 2, "L": 1},
+    "Warriors": {"W": 1, "L": 2},
+    "Heat": {"W": 2, "L": 1}
+  },
+  "Heat": {
+    "Lakers": {"W": 0, "L": 3},
+    "Warriors": {"W": 2, "L": 1},
+    "Celtics": {"W": 1, "L": 2}
+  }
+}
+
